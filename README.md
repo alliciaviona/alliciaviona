@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **SwiftUI, RxSwift, Texture, Realm**
 
+- 👨‍💻 All of my projects are available at [https://medium.com/@alliciavionas](https://medium.com/@alliciavionas)
+
 - 📫 How to reach me **alliciawn@gmail.com**
 
 - ⚡ Fun fact **Beside coding, i also love cats, reading book and travelling places.**
